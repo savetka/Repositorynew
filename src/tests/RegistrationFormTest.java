@@ -14,6 +14,7 @@ public class RegistrationFormTest {
 
         System.out.printf("Hello world");
         sayHello( "Savetka");
+        System.out.println("Daniel");
         //TODO: Add somethin new
     }
 //find something
